@@ -46,7 +46,7 @@
             // btIniciar
             // 
             this.btIniciar.ForeColor = System.Drawing.Color.Red;
-            this.btIniciar.Location = new System.Drawing.Point(337, 23);
+            this.btIniciar.Location = new System.Drawing.Point(348, 22);
             this.btIniciar.Name = "btIniciar";
             this.btIniciar.Size = new System.Drawing.Size(75, 23);
             this.btIniciar.TabIndex = 1;
