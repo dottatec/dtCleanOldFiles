@@ -60,7 +60,7 @@
             this.txtInicialPath.Name = "txtInicialPath";
             this.txtInicialPath.Size = new System.Drawing.Size(237, 20);
             this.txtInicialPath.TabIndex = 2;
-            this.txtInicialPath.Text = "G:\\teste\\t\\teste 1";
+            this.txtInicialPath.Text = "G:\\teste\\t\\teste ";
             // 
             // label1
             // 
